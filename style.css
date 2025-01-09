@@ -28,6 +28,7 @@ img {
   display: grid;
   align-self: center;
   justify-items: center;
+  text-align: center;
 }
 
 .buttons {

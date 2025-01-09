@@ -1,4 +1,4 @@
-document.title = "Mau gk jadi mantanku?";
+document.title = "Do u Wanna be My Gf?";
 
 let waktuPutus = 5;
 let jumlahMantan = 1;
